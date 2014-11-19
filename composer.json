@@ -1,0 +1,16 @@
+{
+    "name": "hugocabral/LaravelXMLKit",
+    "description": "Package for Laravel based on Eloquent to manage XML files.",    
+    "keywords": ["xml", "laravel", "eloquent", "xpath"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "hugocabral\\LaravelXMLKit": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
